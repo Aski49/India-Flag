@@ -1,0 +1,65 @@
+body
+{
+    background-image: linear-gradient(180deg, rgb(203,206,206)),rgb(255,255,255);
+}
+
+.cont
+{
+    height: 400hv;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 15%;
+    
+}
+
+.header
+{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    font-size: 100px;
+}
+
+.stripe
+{
+    width: 500px;
+    height: 100px;
+}
+
+#orange-stripe
+{
+    background-color: rgb(255, 153, 51);
+}
+
+#white-stripe
+{
+    background: rgb(255, 255, 255) ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#ashoka-chakara
+{
+    height: 40px;
+    width: 40px;
+}
+
+#green-stripe
+{
+    background-color: rgb(18, 135, 8);
+}
+
+.footer
+{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    
+}
+
+.footer span
+{
+    color: navy;
+}
